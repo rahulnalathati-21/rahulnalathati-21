@@ -1,81 +1,47 @@
 # 👋 Hi, I'm Rahul Nalathati
 
-🚀 DevOps Engineer | AWS | Terraform | Docker | CI/CD
+🚀 DevOps Engineer | Cloud | Automation  
 
-DevOps Engineer fresher with hands-on experience in AWS cloud services, Linux administration, Terraform, and Docker. Skilled in provisioning infrastructure, automating deployments, and building CI/CD pipelines using modern DevOps tools.
-
----
-
-## ☁️ Cloud Platforms
-- AWS (EC2, S3, VPC, IAM, Lambda, CloudWatch, CloudTrail, EBS, EFS, Load Balancer, Auto Scaling Group, SNS)
-- Azure (Basic)
+DevOps enthusiast with hands-on experience in **AWS, Terraform, Docker, Linux, and CI/CD pipelines**.  
+Passionate about building scalable infrastructure and automating deployments.
 
 ---
 
-## 🏗 Infrastructure as Code
-- Terraform
-- AWS CloudFormation
+## ⚡ Tech Stack
+
+☁️ **Cloud**  
+AWS (EC2, S3, VPC, IAM, Lambda, CloudWatch, EBS, EFS, ASG, ELB)
+
+🏗 **Infrastructure as Code**  
+Terraform | AWS CloudFormation
+
+🐧 **Operating System**  
+Linux Administration
+
+⚙️ **CI/CD**  
+Jenkins | GitHub Actions
+
+🐳 **Containerization**  
+Docker
+
+📦 **Build & Repository**  
+Maven | Nexus
+
+🔍 **Code Quality**  
+SonarQube
+
+📊 **Monitoring**  
+Prometheus | Grafana
 
 ---
 
-## 🐧 Operating Systems
-- Linux Administration
-- User Management
-- File Permissions
-- Process Management
+## 🔧 Tools
+Git | GitHub | Shell Scripting
 
 ---
 
-## 💻 Programming & Scripting
-- Shell Scripting
-- Linux Commands
+## 📫 Connect With Me
 
----
-
-## 🔧 Version Control
-- Git
-- GitHub
-
----
-
-## ⚙️ CI/CD Tools
-- Jenkins
-- GitHub Actions
-
----
-
-## 📦 Build & Artifact Tools
-- Maven
-- Nexus Repository Manager
-
----
-
-## 🔍 Code Quality
-- SonarQube
-
----
-
-## 🐳 Containerization
-- Docker (Image Creation, Container Management, Port Mapping)
-
----
-
-## 📊 Monitoring & Logging
-- Prometheus
-- Grafana
-
----
-
-## 📂 DevOps Projects
-- Terraform AWS Infrastructure Automation
-- Jenkins CI/CD Pipeline Setup
-- Dockerized Application Deployment
-- Monitoring Setup using Prometheus & Grafana
-
----
-
-## 📫 Contact Me
-📧 Email: nalathatirahul@gmail.com  
-📱 Phone: +91 9390305488  
-📍 Location: Hyderabad, India  
-💻 GitHub: https://github.com/rahulnalathati-21
+📧 **Email:** nalathatirahul@gmail.com  
+📍 **Location:** Hyderabad, India  
+💻 **GitHub:** github.com/rahulnalathati-21
