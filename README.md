@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahul Nalathati
 
-<!--
-**rahulnalathati-21/rahulnalathati-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | AWS | Terraform | Docker | CI/CD
 
-Here are some ideas to get you started:
+DevOps Engineer fresher with hands-on experience in AWS cloud services, Linux administration, Terraform, and Docker. Skilled in provisioning infrastructure, automating deployments, and building CI/CD pipelines using modern DevOps tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ☁️ Cloud Platforms
+- AWS (EC2, S3, VPC, IAM, Lambda, CloudWatch, CloudTrail, EBS, EFS, Load Balancer, Auto Scaling Group, SNS)
+- Azure (Basic)
+
+---
+
+## 🏗 Infrastructure as Code
+- Terraform
+- AWS CloudFormation
+
+---
+
+## 🐧 Operating Systems
+- Linux Administration
+- User Management
+- File Permissions
+- Process Management
+
+---
+
+## 💻 Programming & Scripting
+- Shell Scripting
+- Linux Commands
+
+---
+
+## 🔧 Version Control
+- Git
+- GitHub
+
+---
+
+## ⚙️ CI/CD Tools
+- Jenkins
+- GitHub Actions
+
+---
+
+## 📦 Build & Artifact Tools
+- Maven
+- Nexus Repository Manager
+
+---
+
+## 🔍 Code Quality
+- SonarQube
+
+---
+
+## 🐳 Containerization
+- Docker (Image Creation, Container Management, Port Mapping)
+
+---
+
+## 📊 Monitoring & Logging
+- Prometheus
+- Grafana
+
+---
+
+## 📂 DevOps Projects
+- Terraform AWS Infrastructure Automation
+- Jenkins CI/CD Pipeline Setup
+- Dockerized Application Deployment
+- Monitoring Setup using Prometheus & Grafana
+
+---
+
+## 📫 Contact Me
+📧 Email: nalathatirahul@gmail.com  
+📱 Phone: +91 9390305488  
+📍 Location: Hyderabad, India  
+💻 GitHub: https://github.com/rahulnalathati-21
